@@ -1,4 +1,4 @@
-package com.example.filmsapp.ui.main
+package com.example.filmsapp.ui.main.view
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.filmsapp.R
+import com.example.filmsapp.ui.main.viewmodel.MainViewModel
 
 class MainFragment : Fragment() {
 
